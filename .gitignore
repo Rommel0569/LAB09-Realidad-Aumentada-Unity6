@@ -1,0 +1,33 @@
+# Unity generated files
+Library/
+Temp/
+Logs/
+obj/
+UserSettings/
+MemoryCaptures/
+
+# IDE files
+.vs/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Build output and Vuforia package archive (download separately)
+Builds/
+Build/
+*.apk
+*.aab
+*.tgz
+*.keystore
+*.jks
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini

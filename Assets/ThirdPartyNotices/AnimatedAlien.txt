@@ -1,0 +1,10 @@
+Animated Alien Pack
+
+Original asset: Quaternius, Animated Alien Pack (2019).
+Source page: https://quaternius.com/packs/animatedalien.html
+License: CC0 1.0 Universal (public domain dedication).
+
+Unity source file: Assets/Resources/AnimatedAlien.fbx
+The FBX was converted from the Quaternius GLB mirror hosted in the
+codepawl/quaternius-glb Hugging Face dataset. The model and its animation clips
+are bundled locally; the app does not download them at runtime.
