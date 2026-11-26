@@ -31,3 +31,6 @@ Build/
 .DS_Store
 Thumbs.db
 Desktop.ini
+
+# Unity recovery and native build scratch
+Assets/_Recovery/.utmp/
